@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Suruchi Bajaj</h1>
-<h3 align="center">I am a Data engineer. I completed Master of Computer Applications from the National Institute of Technology, Tiruchirappalli. I have hands on experience to Python, SQL, PySpark, and Big Data technologies.</h3>
+<h2 align="center">👋 Welcome To My GitHub</h2>
+
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200"> 
+
+
+<h2 align="left"> I'm Suruchi Bajaj <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h3 align="left">I am a Data engineer. I completed Master of Computer Applications from the National Institute of Technology, Tiruchirappalli. I have hands on experience to Python, SQL, PySpark, and Big Data technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suruchibajaj&label=Profile%20views&color=0e75b6&style=flat" alt="suruchibajaj" /> </p>
 
